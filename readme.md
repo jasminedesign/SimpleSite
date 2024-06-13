@@ -1,6 +1,6 @@
 # SimpleSite
 
-Exploring using [JasmineWS](https://jasminews.uk/ "JasmineWS") and the GitHub Web Editor ( Just press . or Ctrl + > )
+Exploring using [JasmineWS](https://jasminews.uk/ "JasmineWS") and the GitHub Web Editor ( Just press <kbd>.</kbd> or <kbd>Ctrl</kbd> + <kbd>></kbd> )
 
 Published on GitHub Pages @ [SimpleSite](https://jasminedesign.github.io/SimpleSite/ "SimpleSite")
 
